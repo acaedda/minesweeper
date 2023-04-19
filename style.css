@@ -1,0 +1,11 @@
+.grid {
+  list-style-type: none;
+  display: grid;
+  width: fit-content;
+}
+.tile {
+  height: 1.5rem;
+  width: 1.5rem;
+  border: 1px solid #000;
+  user-select: none;
+}
